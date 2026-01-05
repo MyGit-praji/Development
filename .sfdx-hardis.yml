@@ -1,0 +1,10 @@
+project:
+  name: Development
+
+git:
+  defaultBranch: main
+
+environments:
+  dev:
+    branch: "*"
+    orgAlias: dev-org
